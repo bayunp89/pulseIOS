@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "374438689243",
+    "firebase_url": "https://pulsedatabese-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pulsedatabese",
+    "storage_bucket": "pulsedatabese.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374438689243:android:7afbe39b77c8eb1e078ffe",
+        "android_client_info": {
+          "package_name": "com.example.pulse_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-040oqS5lJLVtKrb6-FPSnQJiTEe_WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
